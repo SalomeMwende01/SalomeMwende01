@@ -4,7 +4,7 @@ Computer Science student with a growing focus on frontend engineering.<br>I buil
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Salome Mwende) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salomemwende01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/salome-mwende-b8591a335/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salomemwende01@gmail.com)
 
 # 💻 Tech Stack:
 
