@@ -1,28 +1,64 @@
-# 💫 About Me:
+<!-- Banner -->
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c" width="800" alt="Salome banner"/>
+</p>
 
-Computer Science student with a growing focus on frontend engineering.<br>I build responsive and user-centered applications using modern JavaScript frameworks.
+# Salome Mwende
 
-## 🌐 Socials:
+Full Stack Developer | Building with Django & React | Exploring Mobile & Cloud (Kubernetes)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/salome-mwende-b8591a335/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salomemwende01@gmail.com)
+---
 
-# 💻 Tech Stack:
+## About
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+I'm a full-stack web developer with experience in building modern web applications.
 
-# 📊 GitHub Stats:
+Currently expanding my skills into mobile development and cloud-native technologies.
 
-![](https://github-readme-stats.vercel.app/api?username=SalomeMwende01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SalomeMwende01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SalomeMwende01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Areas of expertise:**
 
-## 🏆 GitHub Trophies
+- **Full Stack Development:** React, Django and APIs
+- **Database Technologies:** MYSQL
+- **Cloud & DevOps:** Kubernetes
 
-![](https://github-profile-trophy.vercel.app/?username=SalomeMwende01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
 
-### ✍️ Random Dev Quote
+## Core Technologies
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- **Bakcend Frameworks:** Django, Django REST Framework
+- **Frontend Technologies:** HTML5, CSS3, Bootstrap, Javascript, React
+- **Databases:** MYSQL
+- **DevOps:** Kubernetes
+
+---
+
+## Contact
+
+Feel free to reach out for collaborations, opportunities or just to connect:
+
+<table>
+  <tr>
+    <td><strong>Email</strong></td>
+    <td><a href="mailto:yourname@gmail.com">salomemwende01@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td><strong>WhatsApp</strong></td>
+    <td><a href="https://wa.me/17066645169"></a></td>
+  </tr>
+  <tr>
+    <td><strong>LinkedIn</strong></td>
+    <td><a href="https://t.me/tyler0301"></a></td>
+  </tr>
+</table>
+
+---
+
+## GitHub Analytics:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=29cmb&show_icons=true&theme=default&hide_title=true" alt="GitHub Stats" height="150">
+  <img src="https://streak-stats.demolab.com/?user=29cmb" alt="GitHub Streak" height="150">
+</p>
 
 ---
 
