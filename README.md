@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2138A0,100:41E6FF&text=Tyler%20Giansente&fontSize=38&fontAlign=70&fontAlignY=40&desc=Full%20Stack%20AI%20Developer%20%7C%20Python%20%7C%20ML%20%7C%20Real-time%20Systems&descAlign=70&descAlignY=65" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2138A0,100:41E6FF&text=Salome%20Mwende&fontSize=38&fontAlign=70&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Python%20%26%20Django%20%7C%20React%20%7C%20Mobile%20%26%20Kubernetes%20Learner&descAlign=70&descAlignY=65" alt="banner"/>
 </p>
 
 # Salome Mwende
