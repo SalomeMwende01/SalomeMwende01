@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c" width="800" alt="Salome banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2138A0,100:41E6FF&text=Tyler%20Giansente&fontSize=38&fontAlign=70&fontAlignY=40&desc=Full%20Stack%20AI%20Developer%20%7C%20Python%20%7C%20ML%20%7C%20Real-time%20Systems&descAlign=70&descAlignY=65" alt="banner"/>
 </p>
 
 # Salome Mwende
@@ -20,6 +20,7 @@ Currently expanding my skills into mobile development and cloud-native technolog
 - **Full Stack Development:** React, Django and APIs
 - **Database Technologies:** MYSQL
 - **Cloud & DevOps:** Kubernetes
+- **Design & Prototyping:** Figma (UI/UX design, interactive prototypes, collaborative workflows
 
 ---
 
@@ -56,10 +57,12 @@ Feel free to reach out for collaborations, opportunities or just to connect:
 ## GitHub Analytics:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=29cmb&show_icons=true&theme=default&hide_title=true" alt="GitHub Stats" height="150">
-  <img src="https://streak-stats.demolab.com/?user=29cmb" alt="GitHub Streak" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=SalomeMwende01&show_icons=true&theme=default&hide_title=true" alt="GitHub Stats" height="150">
+  <img src="https://streak-stats.demolab.com/?user=SalomeMwende01" alt="GitHub Streak" height="150">
 </p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=SalomeMwende01&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:2138A0,100:41E6FF&height=70&section=footer"/>
+</p>
