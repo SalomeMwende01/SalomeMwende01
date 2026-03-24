@@ -46,7 +46,7 @@ Feel free to reach out for collaborations, opportunities or just to connect:
   </tr>
   <tr>
     <td><strong>LinkedIn</strong></td>
-    <td><a href="https://t.me/tyler0301"></a></td>
+    <td><a href="https://www.linkedin.com/in/salome-mwende-b8591a335">Salome Mwende</a></td>
   </tr>
 </table>
 
