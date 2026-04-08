@@ -55,8 +55,8 @@ Feel free to reach out for collaborations, opportunities or just to connect:
 ## GitHub Analytics:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SalomeMwende01&show_icons=true&theme=default&hide_title=true" alt="GitHub Stats" height="150">
-  <img src="https://streak-stats.demolab.com/?user=SalomeMwende01" alt="GitHub Streak" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=SalomeMwende01&show_icons=true&theme=default&hide_title=true&cache_seconds=86400" alt="GitHub Stats" height="150">
+  <img src="https://streak-stats.demolab.com/?user=SalomeMwende01&cache_seconds=86400" alt="GitHub Streak" height="150">
 </p>
 
 ---
